@@ -12,6 +12,8 @@ Your goal should be to know how to the following in HTML (don't worry about CSS 
 * Put an image on a page
 * Mark up paragraphs
 
+As you work on these things, also practice with GitHub, and test them on your GitHub web site.
+
 ## Try an "HTML 101" Tutorial
 
 Here are some ones that I like:
