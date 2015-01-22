@@ -11,6 +11,7 @@ Things to do:
   * How to add files to a repository.
   * How to edit files and save your changes.
 3. Set up your website starting with [these instructions](http://pages.github.com). Once you get to the part where they want to know what system you are on you're kind of stuck – they don't provide instructions for creating the page online. So pick up with the instructions below.
+4. If you haven't verified your e-mail address, you will need to do this. Thanks to @JustinTheMeh for pointing this out. Your site will not be visible until you have a verified e-mail address.
  
 ## Editing your site using the online editor at GitHub
 
