@@ -1,7 +1,16 @@
 Practicing With HTML
 --------------------
 
-Once you've got a basic site running, here are some first steps with HTML:
+Once you've got a basic site running, here are some first steps with HTML.
+
+Your goal should be to know how to the following in HTML (don't worry about CSS or JavaScript yet):
+
+* Construct the framework of a web page.
+* Add headings
+* Build lists
+* Create a link
+* Put an image on a page
+* Mark up paragraphs
 
 ## Try an "HTML 101" Tutorial
 
