@@ -7,6 +7,11 @@ Stealing, or perhaps more politely, reusing, code is a time honored and valuable
 
 Below is the skeleton of a well-written HTML document. You don't have to use it exactly, but you should use something close to it and you should be familiar with the parts. In the assessment interview at the end of the unit we'll be looking at your code and you will be expected to be able to explain what is going on in the HTML that you've written.
 
+Semantic Tags
+-------------
+
+HTML tags give your docments their structure. They also provide valuable information to search engines – and readers of the code – about the purpose and importance of different sections of the document. HTML 5 introduces what are called "semantic tags" that identify specific common parts of a document. The <a href='http://www.w3schools.com/tags/tag_header.asp'>```<header>```</a> (not to be confused with ```<head>```) and ```<nav>``` tags are examples. The links take you to the W3 Schools descriptions of these tags.
+
 Skeletons in the Closet
 -----------------------
 
