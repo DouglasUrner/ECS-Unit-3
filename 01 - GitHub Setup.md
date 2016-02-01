@@ -13,6 +13,8 @@ You made it this far, congratulations!
 
 ## There are two assessments:
 
+Excellent technical skill.
+
 1. Creating a GitHub account: I will be looking for an account that I can easily and clearly identify with you in my list of followers.
 2. Set up a website using GitHub Pages: I will be looking for a working site at _your-account-name.github.io_. The site doesn't need to be fancy, but it does need to respond.
 
